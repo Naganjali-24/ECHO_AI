@@ -1,0 +1,9 @@
+{
+  "name": "Copy of EECHOAI - Tactical Response Hub",
+  "description": "AI-powered emergency resonance tool for detecting and prioritizing life-saving signals from global sensors.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
